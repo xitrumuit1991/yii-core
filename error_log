@@ -1,0 +1,107 @@
+[29-Nov-2013 16:57:57] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/verzview/public_html/verzpc/demo/protected/models/PrecProductFamily.php on line 651
+[11-Apr-2015 00:03:39 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:03:50 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:03:52 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:03:52 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:04:04 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:04:05 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:04:05 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:04:05 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:04:06 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:04:08 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:04:27 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:04:47 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[11-Apr-2015 00:04:58 Asia/Singapore] PHP Fatal error:  Uncaught exception 'CException' with message 'Application base path "/home/aaqsolution/public_html/raobanusa.com/protected/config/.." is not a valid directory.' in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php:262
+Stack trace:
+#0 /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php(136): CApplication->setBasePath('/home/aaqsoluti...')
+#1 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(125): CApplication->__construct('/home/aaqsoluti...')
+#2 /home/aaqsolution/public_html/yii-framework-1.1.15/YiiBase.php(98): YiiBase::createApplication('CWebApplication', '/home/aaqsoluti...')
+#3 /home/aaqsolution/public_html/raovat/index.php(33): YiiBase::createWebApplication('/home/aaqsoluti...')
+#4 {main}
+  thrown in /home/aaqsolution/public_html/yii-framework-1.1.15/base/CApplication.php on line 262
+[16-Apr-2015 16:57:33 Asia/Singapore] PHP Fatal error:  Using $this when not in object context in /home/aaqsolution/public_html/raobanusa.com/protected/models/raovat/QuangCao.php on line 111
+[19-Apr-2015 12:26:15 Asia/Singapore] PHP Fatal error:  Class 'State' not found in /home/aaqsolution/public_html/yii-framework-1.1.15/db/ar/CActiveRecord.php on line 395
